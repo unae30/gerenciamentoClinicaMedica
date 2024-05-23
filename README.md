@@ -1,3 +1,3 @@
-# Gerenciamento Clinica Medica
+# Gerenciamento Clínica Médica
 
-O programa demonstra um gerenciamento de umá clínica médica (sem agendamento). 
+O programa demonstra um gerenciamento de uma clínica médica (sem agendamento). 
